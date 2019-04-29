@@ -1,0 +1,8 @@
+Secret.java
+bin/*
+*.classpath
+*.idea/*
+*.project
+*.settings/*
+*.iml
+
